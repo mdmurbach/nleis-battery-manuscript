@@ -29,9 +29,11 @@ The environment.yml file can be used to recreate the same Conda environment with
 #### Data
 ----------
 
-The data file is broken up between the experimental data (found in the "raw" folder) and simulation data (found in the "simulation" folder). The experimental data is further broken down into
-    * new - contains the the raw data files and the corresponding Kramers-Kronig validation for the EIS/NLEIS experiments done on three fresh Li|NMC cells
-    * aged - contains the the raw data files and the corresponding Kramers-Kronig validation for the EIS/NLEIS experiments done on three Li|NMC cells cells that were aged for 100 cycles at 2C.
+The data file is broken up between the experimental data (found in the "raw" folder) and simulation data (found in the "simulation" folder). The experimental data is further broken down into:
+
+- new: contains the the raw data files and the corresponding Kramers-Kronig validation for the EIS/NLEIS experiments done on three fresh Li|NMC cells
+- aged: contains the the raw data files and the corresponding Kramers-Kronig validation for the EIS/NLEIS experiments done on three Li|NMC cells cells that were aged for 100 cycles at 2C.
+- resistor: contains the raw data files for the EIS/NLEIS experiment done of the purely resistive wire to obtain inherent instrument offset
 
 
 All of the raw data files are stored with Zenodo: [![DOI](https://zenodo.org/badge/xxxxx.svg)](https://zenodo.org/badge/latestdoi/xxx)
