@@ -1,11 +1,11 @@
 ### Code and analysis for "Nonlinear electrochemical impedance spectroscopy of lithium-ion batteries: Experimental approach, analysis, and initial findings"
 ------------------------------------------------------------------------------------------------------
 
-[This repository](https://github.com/mdmurbach/nleis-battery-manuscript) contains all of the data, code, and figures, used in the manuscript. To refer to the code or analysis, please use the ECSarXiv DOI:
+[This repository](https://github.com/mdmurbach/nleis-battery-manuscript) contains all of the data, code, and figures, used in the manuscript. To refer to the code or analysis, please use the ECSarXiv DOI: https://osf.io/tdnwa/
 
-**Please cite the following paper if you use this code:**
+**Please cite the following project if you use this code:**
 
-[M. D. Murbach\*, V. W. Hu\*, and D. T. Schwartz. Nonlinear electrochemical impedance spectroscopy of lithium-ion batteries: Experimental approach, analysis, and initial findings]()
+Murbach, M. D., Hu, V. & Schwartz, D. T. Nonlinear electrochemical impedance spectroscopy of lithium-ion batteries: Experimental approach, analysis, and initial findings. (2018). Available at: osf.io/tdnwa.
 
 -------------
 #### Abstract
@@ -49,7 +49,7 @@ The environment.yml file can be used to recreate the same Conda environment with
 #### Data
 ----------
 
-All of the data files are stored with OSF Projects: https://osf.io/4a6g9/
+All of the data files are stored with OSF Projects: https://osf.io/tdnwa/
 
 The data directory is organized into experimental data (`/raw`) and simulation data (`/simulation`). The raw experimental data is further organized by:
 
@@ -59,6 +59,6 @@ The data directory is organized into experimental data (`/raw`) and simulation d
 
 To reproduce the figures: 
 - Clone the [GitHub repository](https://github.com/mdmurbach/nleis-battery-manuscript)
-- Download/unzip the folder from the [OSF Project](https://osf.io/4a6g9/) into the main repository directory
+- Download/unzip the folder from the [OSF Project](https://osf.io/tdnwa/) into the main repository directory
 - Create and activate conda environment from environment.yml (see above)
 - Open Jupyter Lab (`jupyter lab`) to run the [Supplementary Notebook.ipynb](https://github.com/mdmurbach/nleis-battery-manuscript/blob/master/jupyter/Supplementary%20Notebook.ipynb)
