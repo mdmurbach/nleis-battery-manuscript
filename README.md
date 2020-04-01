@@ -1,11 +1,12 @@
 ### Code and analysis for "Nonlinear electrochemical impedance spectroscopy of lithium-ion batteries: Experimental approach, analysis, and initial findings"
 ------------------------------------------------------------------------------------------------------
 
-[This repository](https://github.com/mdmurbach/nleis-battery-manuscript) contains all of the data, code, and figures, used in the manuscript. To refer to the code or analysis, please use the ECSarXiv DOI: https://osf.io/tdnwa/
+[This repository](https://github.com/mdmurbach/nleis-battery-manuscript) contains all of the data, code, and figures, used in the manuscript. To refer to the code or analysis, you can use the ECSarXiv DOI: https://osf.io/tdnwa/
 
-**Please cite the following project if you use this code:**
+**Please cite the following paper if you use this code:**
 
-Murbach, M. D., Hu, V. & Schwartz, D. T. Nonlinear electrochemical impedance spectroscopy of lithium-ion batteries: Experimental approach, analysis, and initial findings. (2018). Available at: osf.io/tdnwa.
+[Murbach, M. D., Hu, V. W. & Schwartz, D. T. Nonlinear Electrochemical Impedance Spectroscopy of Lithium-Ion Batteries: Experimental Approach, Analysis, and Initial Findings. J. Electrochem. Soc. 165, A2758–A2765 (2018).](http://dx.doi.org/10.1149/2.0711811jes)
+
 
 -------------
 #### Abstract
